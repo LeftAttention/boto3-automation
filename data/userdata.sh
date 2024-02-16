@@ -19,7 +19,7 @@ sudo apt-get install -y nodejs
 
 # Set up your .env file
 cd TravelMemory/backend
-echo "MONGO_URI='mongodb+srv://bhuyankaibalyaprasad1999:H1DodGR7ZALRabjO@hvassign01.bzxol7m.mongodb.net/travelmem'" > .env
+echo "MONGO_URI='mongodb+srv://*******:********@hvassign01.bzxol7m.mongodb.net/travelmem'" > .env
 echo "PORT=\"3000\"" >> .env
 
 # Install node packages and run the app
